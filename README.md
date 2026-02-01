@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PosturePal (FITGRAM)
 
 AI-powered posture tracking and fitness monitoring web application built with React, TypeScript, and Vite.
@@ -255,3 +256,7 @@ Made with ❤️ by Dhruv Ghugal
 # Demo-Pal
 used for demo and testing only
 >>>>>>> 03cbba659e1b0e37e69100599f858e1a33b263c7
+=======
+# Demo-Pal-wt-AI
+demo purpose only
+>>>>>>> 3d5adc7816f8dc64a7863b05ef1e02400c0de4b1
